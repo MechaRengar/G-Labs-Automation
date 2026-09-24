@@ -3,10 +3,10 @@
 Batch-generate with Google Flow (Veo 3.1, Omni Flash, Nano Banana Pro), Grok Imagine, Meta AI and ChatGPT GPT Image 2 — from one desktop app.</p>
 
 <p align="center">
-  <a href="https://github.com/duckmartians/G-Labs-Automation/releases/latest">
+  <a href="https://github.com/duckmartians/G-Labs-Studio">
     <img alt="Download G-Labs Automation for Windows" src="https://img.shields.io/badge/Download%20Windows-%F0%9F%92%BB-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   </a>
-  <a href="https://github.com/duckmartians/G-Labs-Automation/releases/latest">
+  <a href="https://github.com/duckmartians/G-Labs-Studio">
     <img alt="Download G-Labs Automation for macOS" src="https://img.shields.io/badge/Download%20macOS-%F0%9F%8D%8E-000000?style=for-the-badge&logo=apple&logoColor=white">
   </a>
 </p>
@@ -102,7 +102,7 @@ accounts. It ships no AI model and generates nothing by itself.
 
 ## Install
 
-1. Download the latest build for your platform from **[Releases](https://github.com/duckmartians/G-Labs-Automation/releases/latest)**.
+1. Download the latest build for your platform from **[Releases](https://github.com/duckmartians/G-Labs-Studio)**.
 2. **Windows** — run the installer. **macOS** — open the `.dmg` (separate builds for Apple Silicon and Intel).
 3. Launch the app, open **Settings › Accounts**, and sign in to the providers you want to use.
 
